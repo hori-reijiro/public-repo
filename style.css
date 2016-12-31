@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+div#IdJTalk {
+	margin:0%;
+	padding:0%;
+}
+
+div#IdJQuery {
+	margin:0%;
+	padding:0%;
+}
+
+div#IdPHP {
+	margin:0%;
+	padding:0%;
+}
+
+div#IdMySQL {
+	margin:0%;
+	padding:0%;
+}
+
+div#IdCount {
+	font-size:600%;
+	font-weight:bold;
+	color:#00ff00;
+	font-family:arial;
+	margin:0%;
+	padding:0%;
+}
+
+div#IdCurrent {
+	margin:20px;
+}
+
+div#IdRTTime {
+	padding:0px;
+	margin:20px 0px 20px 0px;
+}
+
+input#submitPush {
+	width:100%;
+	font-weight:bold;
+	font-size:50px;
+	font-family:arial;
+	border-radius: 10px;
+	background:#2f4f4f;
+	color:#ffffff;
+}
+
+input#submitCurrent {
+	width:50%;
+	font-weight:bold;
+	font-size:30px; 
+	font-family:arial;	
+}
+
+input#submitReset {
+}
